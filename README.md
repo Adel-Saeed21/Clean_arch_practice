@@ -14,6 +14,7 @@ Features
 
 Project Structure
 
+
 feature/product_page/
  ├── data/
  │   ├── datasource/
@@ -33,6 +34,7 @@ feature/product_page/
  │         ├── widgets/product_grid.dart
  │         ├── widgets/search_bar.dart
  │         ├── widgets/filter_bar.dart
+
 
 
  Layer Explanation
