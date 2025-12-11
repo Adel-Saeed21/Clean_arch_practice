@@ -8,6 +8,7 @@ environment:
   sdk: ^3.9.2
 
 dependencies:
+  collection: ^1.19.1
   cupertino_icons: ^1.0.8
   dio: ^5.9.0
   flutter:
@@ -16,6 +17,7 @@ dependencies:
   hive: ^2.2.3
   hive_flutter: ^1.1.0
   json_annotation: ^4.8.1
+  mockito: ^5.4.4
   pretty_dio_logger: ^1.4.0
   pretty_logger: ^1.0.0
 
